@@ -31,7 +31,7 @@ Building AI-powered applications using RAG and AWS. Focused on scalable systems 
 <p align="center"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nodejs,express,laravel&theme=dark" /></p>
 
 <p align="center"><strong>Databases</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb&theme=dark" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,theme=dark" /></p>
 
 <p align="center"><strong>Cloud & DevOps</strong></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" /></p>
