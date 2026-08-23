@@ -10,7 +10,7 @@ Building AI-powered applications using RAG and AWS. Focused on scalable systems 
   <a target="_blank" href="mailto:amir.ali.next@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a target="_blank"  href="https://linkedin.com/in/amireth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a target="_blank" href="https://amireth.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a target="_blank" href="https://github.com/amirethio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a target="_blank" href="https://github.com/amirlogs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
