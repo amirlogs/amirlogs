@@ -9,7 +9,7 @@ Building AI-powered applications using RAG and AWS. Focused on scalable systems 
 <p align="center">
   <a target="_blank" href="mailto:amir.ali.next@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a target="_blank"  href="https://linkedin.com/in/amireth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a target="_blank" href="https://amireth.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a target="_blank" href="https://imamirdev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a target="_blank" href="https://github.com/amirlogs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -51,7 +51,7 @@ AI-driven document retrieval system with role-based access control  RAG architec
 
 `React` `Node.js` `TypeScript` `MongoDB Atlas` `LangChain` `Voyage-3.5` `Gemini` `AWS` `JWT`
 
-[Repository →](https://github.com/amirethio/RAG-Piper)
+[Repository →](https://github.com/amirlogs/RAG-Piper)
 
 
 ### Dr. Evangadi | AI Health Diagnostic System
@@ -59,28 +59,28 @@ ML-powered system predicting diabetes, heart disease, and lung cancer via AWS Sa
 
 `React` `Node.js` `AWS EC2` `SageMaker` `Lambda` `DynamoDB` `Amazon Lex` `Docker`
 
-[Repository →](https://github.com/amirethio/Dr-Evangadi) · [Demo →](https://www.linkedin.com/posts/amireth_aws-cloudcomputing-machinelearning-activity-7355324606456467456-jjQx)
+[Repository →](https://github.com/amirlogs/Dr-Evangadi) · [Demo →](https://www.linkedin.com/posts/amireth_aws-cloudcomputing-machinelearning-activity-7355324606456467456-jjQx)
 
 ### Abe Garage | Car Service Management System
 Full-stack garage management system with authentication and vehicle tracking.
 
 `React` `Tailwind` `Node.js` `MySQL (AWS RDS)` `EC2` `S3` `JWT`
 
-[Repository →](https://github.com/amirethio/Abe-Garage)
+[Repository →](https://github.com/amirlogs/Abe-Garage)
 
 ### Evangadi Forum
 Interactive Q&A platform for students with real-time discussions.
 
 `React` `Node.js` `MySQL` `REST API`
 
-[Repository →](https://github.com/amirethio/evangadi-forum)
+[Repository →](https://github.com/amirlogs/evangadi-forum)
 
 ### Portfolio Website
 Personal portfolio showcasing projects and skills.
 
 `HTML` `CSS` `JavaScript`
 
-[Live Site →](https://amireth.netlify.app/)
+[Live Site →](https://imamirdev.netlify.app/)
 
 ---
 
@@ -106,8 +106,8 @@ Open to remote work worldwide | available for freelance and full-time opportunit
 <p align="center">
   <a href="mailto:amir.ali.next@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/amireth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://amireth.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/amirethio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://imamirdev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/amirlogs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center" ><em>"I don't just build. I understand why it works, from embedding logic to secure cloud architecture."</em></p>
