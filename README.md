@@ -15,7 +15,7 @@ Building AI-powered applications using RAG and AWS. Focused on scalable systems 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amirethio&theme=dark&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amirlogs&theme=dark&hide_border=true&background=00000000" />
     <img src="https://streak-stats.demolab.com?user=amirlogs&theme=default&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
   </picture>
 </p>
